@@ -12,4 +12,5 @@
   <li>CSS3</li>
   <li>JavaScript</li>
 </ul>
-![Capture](https://github.com/sanc1851/Word-Counter/blob/main/Capture.JPG)
+
+![Capture](Capture.JPG)
