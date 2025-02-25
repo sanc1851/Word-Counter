@@ -1,7 +1,7 @@
 
 <h1>Word counter App</h1>
 
-<p>Word counter App written in HTML, CSS, and JavaScript .</p>
+https://wordcountersanc.netlify.app/
 
 ### Use of the Project:
 
